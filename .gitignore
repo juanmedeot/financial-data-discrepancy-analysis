@@ -1,0 +1,94 @@
+# =============================================================================
+# PRIVATE & SENSITIVE DATA (DO NOT COMMIT)
+# =============================================================================
+**/Base tablero finanzas.xlsx
+**/Base Tablero Revenue.xlsx
+*mapeos_privados*
+*private_maps*
+*.salt*
+*.key
+*.pem
+*.token
+
+# Intermediate generated artifacts (re-creatable via pipeline)
+data/results.pkl
+
+# =============================================================================
+# PYTHON ENVIRONMENTS & COMPILED ARTIFACTS
+# =============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+*.so
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.conda/
+
+# =============================================================================
+# OPERATING SYSTEM ARTIFACTS
+# =============================================================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# =============================================================================
+# IDES & EDITORS
+# =============================================================================
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# =============================================================================
+# TEMPORARY FILES & LOGS
+# =============================================================================
+*.log
+*.tmp
+*.temp
+*_tmp.*
