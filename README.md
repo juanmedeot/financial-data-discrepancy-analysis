@@ -1,4 +1,4 @@
-# Financial and Sales Discrepancy Analysis (FY 2025)
+# Financial and Sales Discrepancy Analysis
 
 [![QA Tests: 9/9 Passed](https://img.shields.io/badge/QA%20Tests-9%2F9%20Passed-brightgreen.svg)](#quality-assurance)
 
@@ -71,8 +71,7 @@ Both `data/base_sales.xlsx` and `data/base_finance.xlsx` share this schema:
 │   ├── base_sales.xlsx     # Sales dataset (8,074 rows)
 │   ├── base_sales.csv      # Same data in CSV format
 │   ├── base_finance.xlsx   # Finance dataset (8,070 rows)
-│   ├── base_finance.csv    # Same data in CSV format
-│   └── results.pkl         # Precomputed reconciliation cache
+│   └── base_finance.csv    # Same data in CSV format 
 ├── reports/
 │   ├── differences_report_2025.md   # Full transaction-level discrepancy report
 │   └── differences_report_2025.pdf  # PDF version for distribution
