@@ -1,4 +1,4 @@
-# Financial Dashboard Discrepancy Analysis (FY 2025)
+# Financial and Sales Discrepancy Analysis (FY 2025)
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: Proprietary](https://img.shields.io/badge/license-Proprietary-red.svg)](#)
@@ -8,7 +8,7 @@
 
 ## Business Problem
 
-Two internal departments — **Finance** and **Sales** — maintain parallel transaction records for fiscal year 2025. Despite representing the same commercial activity, discrepancies arose between the two datasets in reported monetary totals and transaction volumes.
+Two internal departments — **Finance** and **Sales** — maintain parallel transaction records for year 2025. Despite representing the same commercial activity, discrepancies arose between the two datasets in reported monetary totals and transaction volumes.
 
 This repository contains an automated reconciliation engine that answers the following business questions:
 
