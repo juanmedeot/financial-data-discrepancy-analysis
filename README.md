@@ -1,7 +1,5 @@
 # Financial and Sales Discrepancy Analysis (FY 2025)
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![License: Proprietary](https://img.shields.io/badge/license-Proprietary-red.svg)](#)
 [![QA Tests: 9/9 Passed](https://img.shields.io/badge/QA%20Tests-9%2F9%20Passed-brightgreen.svg)](#quality-assurance)
 
 ---
